@@ -1,11 +1,10 @@
 # VIS — Vehicle Intelligence System
 
-Ultra-premium exhibition website.
+Clean rebuild for GitHub Pages.
 
-Upload the CONTENTS of this folder to the root of your GitHub Pages repository.
+Upload the CONTENTS of this folder to the repository root:
+- index.html
+- .nojekyll
+- assets/
 
-Important:
-- `index.html` must remain in the repository root.
-- `assets/` must remain beside `index.html`.
-- The five `VIEW SLOT` placeholders in External Inspection are intentionally honest placeholders.
-  Replace them later with the real 8-angle captures without changing the site structure.
+No build step is required.
